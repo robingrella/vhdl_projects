@@ -1,0 +1,7 @@
+v 4
+file . "ampelsteuerung.vhdl" "875a795ace3143313337c68fcd27147841737729" "20200511170347.259":
+  entity ampelsteuerung at 1( 0) + 0 on 65;
+  architecture behave of ampelsteuerung at 17( 445) + 0 on 66;
+file . "ampelsteuerung_tb.vhdl" "93948f791c1ac8b199f6e38fc9983f19153899b9" "20200511170351.048":
+  entity ampelsteuerung_tb at 1( 0) + 0 on 67;
+  architecture behave of ampelsteuerung_tb at 7( 103) + 0 on 68;

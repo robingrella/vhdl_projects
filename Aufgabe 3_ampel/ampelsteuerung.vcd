@@ -1,0 +1,112 @@
+$date
+  Mon May 11 18:43:04 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module ampelsteuerung_tb $end
+$var reg 1 ! clk $end
+$var reg 1 " reset $end
+$var reg 1 # output_hauptampel_gruen $end
+$var reg 1 $ output_hauptampel_rot $end
+$var reg 1 % output_hauptampel_gelb $end
+$var reg 1 & output_nebenampel_gruen $end
+$var reg 1 ' output_nebenampel_rot $end
+$var reg 1 ( output_nebenampel_gelb $end
+$scope module ampel $end
+$var reg 1 ) clk $end
+$var reg 1 * reset $end
+$var reg 1 + output_hauptampel_gruen $end
+$var reg 1 , output_hauptampel_rot $end
+$var reg 1 - output_hauptampel_gelb $end
+$var reg 1 . output_nebenampel_gruen $end
+$var reg 1 / output_nebenampel_rot $end
+$var reg 1 0 output_nebenampel_gelb $end
+$var reg 4 1 counter[3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+1!
+0"
+1#
+0$
+0%
+0&
+1'
+0(
+1)
+0*
+1+
+0,
+0-
+0.
+1/
+00
+b0001 1
+#2000000000000000
+0!
+0)
+#4000000000000000
+1!
+1)
+b0010 1
+#6000000000000000
+0!
+0)
+#8000000000000000
+1!
+1)
+b0011 1
+#10000000000000000
+0!
+0)
+#12000000000000000
+1!
+1)
+b0100 1
+#14000000000000000
+0!
+0)
+#16000000000000000
+1!
+1)
+b0101 1
+#18000000000000000
+0!
+0)
+#20000000000000000
+1!
+1)
+b0110 1
+#22000000000000000
+0!
+0)
+#24000000000000000
+1!
+1)
+b0111 1
+#26000000000000000
+0!
+0)
+#28000000000000000
+1!
+0#
+1%
+1)
+0+
+1-
+b1000 1
+#30000000000000000
+0!
+0)
+#32000000000000000

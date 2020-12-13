@@ -1,0 +1,43 @@
+$date
+  Wed May 06 12:50:43 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module prioritaetsdekoder_tb $end
+$var reg 7 ! i[6:0] $end
+$var reg 3 " o[2:0] $end
+$scope module pr $end
+$var reg 7 # i[6:0] $end
+$var reg 3 $ o[2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000000 !
+b000 "
+b0000000 #
+b000 $
+#1000000
+b0000001 !
+b001 "
+b0000001 #
+b001 $
+#2000000
+b0111111 !
+b110 "
+b0111111 #
+b110 $
+#3000000
+b0000111 !
+b011 "
+b0000111 #
+b011 $
+#4000000
